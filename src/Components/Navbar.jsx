@@ -1,6 +1,6 @@
 import React, {useState}from 'react';
 import {AiOutlineClose,AiOutlineMenu} from 'react-icons/ai';
-import mhlogo from '../assets/mhlogo.jpeg'
+
 
 const Navbar = () => {
   const [nav,setNav]  = useState(false)
