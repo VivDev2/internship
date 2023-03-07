@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VivDev2/internship/static/css/main.0200a015.css",
+    "main.js": "/VivDev2/internship/static/js/main.b2cf0c4d.js",
+    "static/media/laptop.jpg": "/VivDev2/internship/static/media/laptop.f0dc87ff1f58bda9abef.jpg",
+    "index.html": "/VivDev2/internship/index.html",
+    "main.0200a015.css.map": "/VivDev2/internship/static/css/main.0200a015.css.map",
+    "main.b2cf0c4d.js.map": "/VivDev2/internship/static/js/main.b2cf0c4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0200a015.css",
+    "static/js/main.b2cf0c4d.js"
+  ]
+}
